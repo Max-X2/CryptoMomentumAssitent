@@ -40,7 +40,23 @@ To get started with CryptoMomentumAssistant, follow these steps:
      ```
 
 3. **Configure your API key:**
-   - in the  `secret.py`  replace the placeholder with your actual API key from https://www.cryptocompare.com/
+  ## Configure your API Key
+
+    To access cryptocurrency data, CryptoMomentumAssistant requires an API key from CryptoCompare. If you don't already have one, you can obtain a free API key by signing up at [CryptoCompare](https://min-api.cryptocompare.com/).
+
+    After obtaining your API key, set up your configuration file as follows:
+
+    1. **Create a `secrets.py` file** in the project's root directory.
+
+    2. **Open `secrets.py`** in your text editor and add the following line:
+
+        ```python
+        API_KEY_SECRET = "YOUR_SECRET_API_FROM_CRYPTOCOMPARE"
+        ```
+
+        Replace `YOUR_SECRET_API_FROM_CRYPTOCOMPARE` with the actual API key you obtained from CryptoCompare.
+
+
 
 
 4. **Run the analysis:**

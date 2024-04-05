@@ -1,4 +1,4 @@
-from secret import API_KEY_SECRET
+from secrets import API_KEY_SECRET
 BASE_URL = 'https://min-api.cryptocompare.com/data/v2/'
 
 
