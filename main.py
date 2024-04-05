@@ -42,5 +42,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    plt.show()
+    #plt.show()
+    input("Press Enter to exit and close all plots.")  # Keeps the script running
+
 
