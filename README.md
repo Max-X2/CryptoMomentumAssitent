@@ -74,4 +74,4 @@ Contributions to CryptoMomentumAssistant are welcome! Whether it's feature reque
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
