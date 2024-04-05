@@ -53,7 +53,7 @@ After obtaining your API key, set up your configuration file as follows:
     API_KEY_SECRET = "YOUR_SECRET_API_FROM_CRYPTOCOMPARE"
     ```
 
-    Replace `YOUR_SECRET_API_FROM_CRYPTOCOMPARE` with the actual API key you obtained from CryptoCompare.
+Replace `YOUR_SECRET_API_FROM_CRYPTOCOMPARE` with the actual API key you obtained from CryptoCompare.
 
 
 
