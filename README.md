@@ -49,9 +49,9 @@ After obtaining your API key, set up your configuration file as follows:
 
 **Open `secrets.py`** in your text editor and add the following line:
 
-    ```python
+    
     API_KEY_SECRET = "YOUR_SECRET_API_FROM_CRYPTOCOMPARE"
-    ```
+    
 
 Replace `YOUR_SECRET_API_FROM_CRYPTOCOMPARE` with the actual API key you obtained from CryptoCompare.
 
