@@ -16,9 +16,8 @@ To get started with CryptoMomentumAssistant, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CryptoMomentumAssistant.git
+   git clone https://github.com/alireza787b/CryptoMomentumAssistant.git
    ```
-   Replace `YOUR_USERNAME` with your GitHub username.
 
 2. **Set up your environment:**
    - Create a virtual environment:
@@ -40,7 +39,7 @@ To get started with CryptoMomentumAssistant, follow these steps:
      ```
 
 3. **Configure your API key:**
-  ## Configure your API Key
+## Configure your API Key
 
     To access cryptocurrency data, CryptoMomentumAssistant requires an API key from CryptoCompare. If you don't already have one, you can obtain a free API key by signing up at [CryptoCompare](https://min-api.cryptocompare.com/).
 
