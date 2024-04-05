@@ -1,9 +1,9 @@
-API_KEY = 'Your_API_CODE_HERE_FROM_CRYPTOCOMPARE'
+from secret import API_KEY_SECRET
 BASE_URL = 'https://min-api.cryptocompare.com/data/v2/'
 
 
 # Configuration for fetching data
-
+API_KEY = API_KEY_SECRET
 CRYPTO_SYMBOL = 'BTC'
 timeframes_config = {
     '1m': {'endpoint': ('histominute', 1), 'weight': 0.5},
