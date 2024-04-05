@@ -6,7 +6,7 @@ __pycache__/
 *.so
 
 #API is here
-secrets.py
+API_KEY_SECRET.py
 
 
 # Distribution / packaging

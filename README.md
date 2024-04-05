@@ -45,9 +45,9 @@ To access cryptocurrency data, CryptoMomentumAssistant requires an API key from 
 
 After obtaining your API key, set up your configuration file as follows:
 
-**Create a `secrets.py` file** in the project's root directory.
+**Create a `API_KEY_SECRET.py` file** in the project's root directory.
 
-**Open `secrets.py`** in your text editor and add the following line:
+**Open `API_KEY_SECRET.py`** in your text editor and add the following line:
 
     
     API_KEY_SECRET = "YOUR_SECRET_API_FROM_CRYPTOCOMPARE"
